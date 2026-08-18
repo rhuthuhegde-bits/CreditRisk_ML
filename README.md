@@ -39,7 +39,7 @@ user can upload test data, pick a model, and inspect its performance.
 
 ## c. GitHub Repository Link
 
-`<PASTE-YOUR-GITHUB-REPO-URL-HERE-AFTER-YOU-PUSH>`
+`[Link](https://github.com/rhuthuhegde-bits/CreditRisk_ML)`
 
 ## d. Models Used
 
