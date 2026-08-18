@@ -1,3 +1,50 @@
+# ML Assignment 2 - Final Submission
+
+**Student:** [RHUTHU HEGDE 2025AC05251]
+**Course:** Machine Learning (AIMLCZG565)
+**Submission Deadline:** 18-Aug-2026, 23:59 PM
+
+This document follows the mandatory submission order specified in the
+assignment: (1) GitHub Repository Link, (2) Live Streamlit App Link,
+(3) BITS Virtual Lab execution screenshot, (4) full README.md content.
+
+---
+
+## 1. GitHub Repository Link
+
+[https://github.com/rhuthuhegde-bits/CreditRisk_ML]
+
+The repository contains:
+- Complete source code (`app.py`, `model/train_models.py`)
+- `requirements.txt`
+- A clear `README.md`
+- Test data used in the experiments (`test_data.csv`)
+
+---
+
+## 2. Live Streamlit App Link
+
+[PASTE_LIVE_STREAMLIT_APP_LINK_HERE]
+
+Deployed via Streamlit Community Cloud from the `main` branch, app entry
+point `app.py`. Confirmed to open an interactive frontend when clicked.
+
+---
+
+## 3. Screenshot - Execution on BITS Virtual Lab
+
+[INSERT_BITS_LAB_SCREENSHOT_HERE — e.g. ![screenshot](screenshot.png)]
+
+*(One screenshot showing the assignment — e.g. `python model/train_models.py`
+or the Streamlit app running — executed on the BITS Virtual Lab environment.)*
+
+---
+
+## 4. README.md Content
+
+> The full content of the repository's `README.md` is reproduced below,
+> as required by Section 2, item 4 of the assignment.
+
 # Credit Risk Classification - ML Assignment 2
 
 ## a. Problem Statement
@@ -39,7 +86,7 @@ user can upload test data, pick a model, and inspect its performance.
 
 ## c. GitHub Repository Link
 
-`https://github.com/rhuthuhegde-bits/CreditRisk_ML`
+[https://github.com/rhuthuhegde-bits/CreditRisk_ML]
 
 ## d. Models Used
 
