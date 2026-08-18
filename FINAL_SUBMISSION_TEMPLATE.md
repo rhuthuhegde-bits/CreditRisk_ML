@@ -12,7 +12,7 @@ assignment: (1) GitHub Repository Link, (2) Live Streamlit App Link,
 
 ## 1. GitHub Repository Link
 
-[PASTE_GITHUB_REPO_LINK_HERE]
+[https://github.com/rhuthuhegde-bits/CreditRisk_ML]
 
 The repository contains:
 - Complete source code (`app.py`, `model/train_models.py`)
@@ -86,7 +86,7 @@ user can upload test data, pick a model, and inspect its performance.
 
 ## c. GitHub Repository Link
 
-[PASTE_GITHUB_REPO_LINK_HERE]
+[https://github.com/rhuthuhegde-bits/CreditRisk_ML]
 
 ## d. Models Used
 
